@@ -1,0 +1,148 @@
+.main {
+    margin: 20px 30px;
+    width: 1200px;
+    height: 900px;
+    background: aliceblue;
+    display: flex;
+}
+
+
+.cart {
+    width: 250px;
+    margin: 40px 51px;
+    padding: 50px 30px;
+    border-radius: 10%;
+   
+    padding: 10px;
+}
+
+
+
+
+.cart_img {
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    height: 175px;
+}
+
+img {
+    width: 250px;
+    height: 174px;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.cart_body {
+    background: white;
+    height: 200px;
+    border-bottom: 1px solid brown;
+}
+
+.text_deco1 {
+    text-align: center;
+    padding: 25px 0px;
+    color: deeppink;
+    background: white;
+}
+
+.text_deco2 {
+    text-align: center;
+    font-size: 31px;
+    font-weight: 700;
+    margin: -20px 0px;
+    background: white;
+}
+
+.text_deco3 {
+    text-align: center;
+    margin: 28px 0px;
+    background: white;
+    font-size: small;
+    color: silver;
+
+}
+p {
+    margin: 0px;
+}
+
+.cart_footer {
+    background: deeppink;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    display: flex; 
+    height: 100px;
+}
+
+.number_1 {
+   text-align: center;
+    font-size: x-large;
+    padding: 20px 0px;
+}
+
+.number_2 {
+    position: relative;
+    top: -50px;
+    right: -50px;
+}
+
+.number_text {
+    text-align: center;
+    margin: -30px 0px;
+}
+
+.price {
+    width: 80px;
+    margin: 0px;
+    padding: 0px;
+    color: navajowhite;
+}
+
+
+.participants {
+    border-left: 1px solid sienna;
+    border-right: 1px solid sienna;
+}
+.second {
+    padding: 18px 0px;
+
+}
+
+.price.price_deco {
+    border-left: 1px solid brown;
+    border-right: 1px solid brown;
+}
+.color {
+color: orange;
+ }
+
+ .cart_2_background {
+    background: orangered;
+    width: 280px;
+ }
+
+ .text_deco1.cart_3_color {
+    color: green;
+}
+
+.cart_footer.cart_3_background {
+    background: limegreen;
+}
+
+img.cart-2-img {
+    height: 191px;
+    width: 280px;
+}
+
+.cart_body.cart-2-body {
+    height: 240px;
+    width: 280px;
+}
+
+.price.cart_2 {
+    width: 93px;
+}
+
+.cart.cart-2 {
+    position: relative;
+    top: -30px;
+}
